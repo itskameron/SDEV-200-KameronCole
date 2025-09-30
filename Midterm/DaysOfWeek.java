@@ -1,8 +1,7 @@
 package daysAndDates
-
 public class DaysOfWeek {
 	public static String DayOfWeekStr(int NumberOfDay) {
-		String dayStr = ""
+		String dayStr = ""; // Added Semicolon
 		switch (NumberOfDay) {
 			case 1:
 				dayStr = "Sunday";
@@ -11,10 +10,11 @@ public class DaysOfWeek {
 				dayStr = "Monday";
 				break;
 			case 3:
-				dayStr = "Tuesday"
+				dayStr = "Tuesday"; // Added Semicolon
 				break;
 			case 4:
-				dayStr = "Wednesday";
+				dayStr = "Wednesday"; 
+				break; // Added break
 			case 5:
 				dayStr = "Thursday";
 				break;
@@ -25,6 +25,7 @@ public class DaysOfWeek {
 				dayStr = "Saturday";
 				break;
 		}
+	Return dayStr; // Return the day string
 		
 	}
 }

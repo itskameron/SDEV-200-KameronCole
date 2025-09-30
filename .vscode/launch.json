@@ -1,0 +1,26 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Assignment2",
+      "request": "launch",
+      "mainClass": "Assignment2",
+      "projectName": "SDEV-200-KameronCole_afdc0769"
+    },
+    {
+      "type": "java",
+      "name": "DocumentTest",
+      "request": "launch",
+      "mainClass": "DocumentTest",
+      "projectName": "SDEV-200-KameronCole_afdc0769"
+    },
+    {
+      "type": "java",
+      "name": "Launch M5Assignment1",
+      "request": "launch",
+      "mainClass": "M5Assignment1",
+      "vmArgs": "--module-path E:/Programming/javafx-sdk-21.0.8/lib --add-modules javafx.controls,javafx.fxml"
+    }
+  ]
+}

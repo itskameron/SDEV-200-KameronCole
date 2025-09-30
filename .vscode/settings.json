@@ -1,8 +1,9 @@
 {
     "java.project.sourcePaths": [
-        "Assignments/Module 3",
-        "Assignments/Module 2/assignment 1",
-        "Assignments/Module 1",
-        ""
-    ]
+        ".",
+        "Assignments\\Module 1",
+        "Assignments\\Module 2\\assignment 1",
+        "Assignments\\Module 3"
+    ],
+    "java.project.referencedLibraries": []
 }
