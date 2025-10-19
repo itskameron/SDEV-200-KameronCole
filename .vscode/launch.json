@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DocumentLibraryApp",
+      "request": "launch",
+      "mainClass": "DocumentLibraryApp",
+      "projectName": "SDEV-200-KameronCole_afdc0769"
+    },
+    {
+      "type": "java",
       "name": "Assignment2",
       "request": "launch",
       "mainClass": "Assignment2",
